@@ -146,7 +146,6 @@
 					<linkXRef>false</linkXRef>
 					<failsOnError>true</failsOnError>
 					<consoleOutput>true</consoleOutput>
-					<configLocation>checkstyle.xml</configLocation>
 				</configuration>
 			</plugin>
 			<plugin>
